@@ -1,4 +1,4 @@
-# @fleetbase/pallet-engine
+# @atomizedev/pallet-engine
 
 Pallet is a Fleetbase extension which provides inventory management.
 
@@ -12,7 +12,7 @@ Pallet is a Fleetbase extension which provides inventory management.
 ## Installation
 
 ```
-ember install @fleetbase/pallet-engine
+ember install @atomizedev/pallet-engine
 ```
 
 

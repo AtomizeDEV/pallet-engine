@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/pallet-engine",
+    "name": "@atomizedev/pallet-engine",
     "version": "0.0.1",
     "description": "Pallet is a Fleetbase extension which provides inventory management.",
     "keywords": [
@@ -34,8 +34,8 @@
         "test:ember-compatibility": "ember try:each"
     },
     "dependencies": {
-        "@fleetbase/ember-core": "^0.1.0",
-        "@fleetbase/ember-ui": "^0.1.3",
+        "@atomizedev/ember-core": "git@github.com/AtomizeDEV/ember-core.git",
+        "@atomizedev/ember-ui": "git@github.com/AtomizeDEV/ember-ui.git",
         "@fortawesome/ember-fontawesome": "^0.4.1",
         "@fortawesome/fontawesome-svg-core": "^6.4.0",
         "@fortawesome/free-solid-svg-icons": "^6.4.0",
