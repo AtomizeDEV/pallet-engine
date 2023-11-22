@@ -12,7 +12,7 @@
         "ember-addon",
         "ember-engine"
     ],
-    "repository": "https://github.com/fleetbase/pallet-engine",
+    "repository": "https://github.com/atomizedev/pallet-engine",
     "license": "MIT",
     "author": "Fleetbase Pte Ltd <hello@fleetbase.io>",
     "directories": {
